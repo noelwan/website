@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+## Education
+* B.A. in Physics, Columbia University
+* Ph.D. in EECS, MIT
