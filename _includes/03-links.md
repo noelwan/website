@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Scholar] https://scholar.google.com/citations?user=Wk3ZHFwAAAAJ&hl=en
+[Twitter] https://twitter.com/noelwan23
