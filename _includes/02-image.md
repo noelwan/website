@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://twitter.com/noelwan23/header_photo)
+![Image of my PhD work](https://twitter.com/noelwan23/header_photo)
